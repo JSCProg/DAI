@@ -66,14 +66,14 @@ const fetchNoAsAService = async () => {
 
     return {
         phrase: normalizePhrase(phrase),
-        source: 'by jeesssik'
+        source: 'by Checho'
     };
 };
 
 const getRandomWaitingMessage = () => {
     const messages = [
         'Buscando una forma creativa de decir que no…',
-        'Puliendo una excusa socialmente aceptable…',
+        'Puliendo una excusa socialmente inaceptable…',
         'Negociando con la pereza universal…'
     ];
 
